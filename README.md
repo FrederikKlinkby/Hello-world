@@ -1,2 +1,2 @@
 # Hello-world
-first repo, this is alletiders!
+first repo. not so alletiders
